@@ -214,3 +214,4 @@ ModelManifest.xml
 libnoise.sln
 libnoise/include/Makefile
 libnoise/src/Makefile
+libnoise.VC.db

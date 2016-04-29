@@ -211,3 +211,6 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 *.opendb
+libnoise.sln
+libnoise/include/Makefile
+libnoise/src/Makefile
